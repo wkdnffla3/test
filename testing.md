@@ -28,6 +28,9 @@ this is **sparlta**
   gre
   * blue
 
+* print
+ * else
+
 This is a normal paragraph:
 
     This is a code block.
