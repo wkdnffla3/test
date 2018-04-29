@@ -33,6 +33,12 @@ This is a normal paragraph:
     atemped
 end code block.
 
+* * *
+***
+*****
+- - -
+
+---------------------------------------
     #include<stdio.h>
     
     int main(){
