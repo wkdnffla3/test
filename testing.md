@@ -53,3 +53,6 @@ Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
 syntax: [NAVER](https://www.naver.com)
+
+<http://example.com/>
+<address@example.com>
