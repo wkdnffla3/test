@@ -58,3 +58,18 @@ syntax: [NAVER](https://www.naver.com)
 
 
 <address@example.com>
+
+*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
+
+++underline++
+
+~~cancelline~~
+
+~~printf~~
+
