@@ -73,4 +73,4 @@ __double underscores__
 
 ~~printf~~
 
-![텍스트](https://post.naver.com/viewer/postView.nhn?volumeNo=15185547&memberNo=833003&mainMenu=CULTURE#)
+![텍스트](https://cdn.namuwikiusercontent.com/s/a6c062e79800bbdaac8cf9b645b9d6d17357172c0dc52ea4c426cec9d10d993b20e0c7e901723cce6da7fe47dd27f5c866250dcc1c48dcd753583baf6ccfae0933d4c4a646a3e80fd5cadb6941725c12?e=1530107842&k=w-xNEpdpOCmIDiJKVvzjFg)
