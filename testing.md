@@ -30,4 +30,10 @@ this is **sparlta**
 This is a normal paragraph:
 
     This is a code block.
+    atemped
 end code block.
+    #include<stdio.h>
+    
+    int main(){
+    return 0;
+    }
