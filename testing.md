@@ -52,4 +52,4 @@ end code block.
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
-syntax: [Title](link)
+syntax: [NAVER](www.naver.com)
