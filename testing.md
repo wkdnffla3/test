@@ -23,8 +23,7 @@ this is **sparlta**
 3. third
 4. fourth(?)
 
-* red
-  * green
+* red  * green
   gre
   * blue
 
