@@ -72,4 +72,5 @@ __double underscores__
 ~~cancelline~~
 
 ~~printf~~
-![GitHub Logo](/images/logo.png)
+
+![GitHub Logo](http://cfile24.uf.tistory.com/image/1848DE394F40A45C09576D)
